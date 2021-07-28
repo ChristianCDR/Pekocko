@@ -1,0 +1,6 @@
+[submodule "peck_backend"]
+	path = peck_backend
+	url = https://github.com/ChristianCDR/peck_backend.git
+[submodule "peck_frontend"]
+	path = peck_frontend
+	url = https://github.com/ChristianCDR/peck_frontend.git
